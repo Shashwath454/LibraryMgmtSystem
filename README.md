@@ -12,8 +12,7 @@
 - [License](#license)
 
 ## About
-
-Briefly describe your Library Management System. Include its purpose, key features, and any other relevant information.
+The Library Management System is a web-based application developed in PHP and MySQL. It allows efficient management of a library's resources, including books, members, and transactions. This system simplifies the process of tracking book availability, managing member information, and handling check-ins and check-outs.
 
 ## Features
 
